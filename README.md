@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bphilyaw11
-- 👀 I’m interested in web development and game development
-- 🌱 I’m currently learning how to be a full stack developer on the Odin Project and getting my bachelors in computer science
+- 👀 I’m interested in data science and game development
+- 🌱 I’m currently learning how to be a data scientist on the DataCamp and getting my bachelors in computer science
 - 💞️ I’m looking to collaborate on any projects that would help me learn to code
 - 📫 How to reach me... My email: brettphilyaw123@gmail.com
 
