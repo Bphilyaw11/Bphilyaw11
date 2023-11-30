@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bphilyaw11
 - 👀 I’m interested in data science and game development
-- 🌱 I’m currently learning how to be a data scientist on the DataCamp and getting my bachelors in computer science
+- 🌱 I’m currently learning how to make a game in Unreal Engine 5
 - 💞️ I’m looking to collaborate on any projects that would help me learn to code
 - 📫 How to reach me... My email: brettphilyaw123@gmail.com
 
